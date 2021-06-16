@@ -1,5 +1,7 @@
 
 #!/usr/bin/env python3
+
+##https://pythontic.com/modules/socket/client-server-example
 # #python3 /home/estufaTabaco/main.py
 
 import socket
